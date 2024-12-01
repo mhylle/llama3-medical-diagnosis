@@ -1,0 +1,10 @@
+[
+    {
+        "question": "Patient presents with fever (38.5°C), persistent dry cough, fatigue, and mild shortness of breath for the past 5 days. No known contact with COVID-19 cases.",
+        "answer": "Based on the presented symptoms: fever, dry cough, fatigue, and mild shortness of breath, the most likely diagnoses to consider are:\n1. Upper Respiratory Tract Infection (viral)\n2. Possible early COVID-19 infection\n3. Acute bronchitis\n\nRecommended actions:\n1. Isolation precautions\n2. COVID-19 testing\n3. Symptomatic treatment\n4. Monitor for worsening symptoms"
+    },
+    {
+        "question": "30-year-old female presents with severe headache, sensitivity to light and sound, nausea, and visual aura that preceded the headache. Similar episodes in the past.",
+        "answer": "Based on the classic presentation of:\n- Severe headache\n- Photophobia and phonophobia\n- Nausea\n- Visual aura\n- History of similar episodes\n\nDiagnosis: Migraine with aura (Classical migraine)\n\nThis is a typical presentation of migraine with aura, characterized by the following features:\n1. Visual symptoms preceding headache (aura phase)\n2. Associated symptoms of photophobia, phonophobia, and nausea\n3. Recurrent nature of symptoms"
+    }
+]
